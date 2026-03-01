@@ -21,7 +21,3 @@ ProtoVCS is an experimental decentralized version control system (VCS) built in 
 ## Installation
 ProtoVCS is a Rust binary. Clone the repo and build with Cargo:
 
-```bash
-git clone <your-repo-url>
-cd ProtoVCS
-cargo build --release
