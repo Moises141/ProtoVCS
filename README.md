@@ -8,7 +8,7 @@ ProtoVCS is an experimental decentralized version control system (VCS) built in 
 - **Git-Like Workflow**: Basic `init`, `add`, `commit`, and `status` commands, with object storage for blobs, trees, and commits.
 - **Permissions & Push**: Control read/write/push access; secure file pushes with signature and hash verification.
 - **Testing Focus**: Comes with PowerShell scripts for verifying security (e.g., tamper detection, authorization).
-- **Roadmap-Driven**: See the [Roadmap](#https://github.com/Moises141/ProtoVCS/blob/main/Roadmap.md) for upcoming features like full decentralization and anonymity.
+- **Roadmap-Driven**: See the [Roadmap](#Roadmap.md) for upcoming features like full decentralization and anonymity.
 
 ## Project Structure
 - **`src/main.rs`**: CLI entry point; handles commands like init, add, commit, and network ops.
